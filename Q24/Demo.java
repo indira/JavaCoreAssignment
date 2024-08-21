@@ -14,7 +14,7 @@ public class Demo {
         //display data here
         System.out.println("ID: "+e.getId());
         System.out.println("Name: "+e.getName());
-        
+        System.out.println("Salary: "+ e.getSal());
         
     }
 
